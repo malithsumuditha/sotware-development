@@ -20,3 +20,7 @@ The debugging duck has been found in a desk drawer. Dr. Honk denies everything.
 
 Mission control reminds all crew members that it does not accept pushes.
 Make your own copies of this log.
+
+## Day 5
+
+The backup was successful. Dr. Honk takes all the credit.
